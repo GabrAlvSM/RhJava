@@ -58,10 +58,4 @@ public class processoSelet {
         System.out.println("Parabéns você passou por todas as etapas iniciais do processo seletivo e poderá prosseguir para a fase final! \nFique atento ao seu email para futuras informações da etapa final.\n");
         return;
     }
-
-    
-
-
-    
-
 }
