@@ -33,15 +33,6 @@ public class processoSelet {
             return;
         }
 
-/*         public static boolean same (String va1, String var2){
-            if (curso == "S")
-                return true;
-            else
-                return false;
-            
-        }
- */
-
         //curso
         System.out.println("Você possui o curso de qualificação necessário para o trabalho? Se sim digite S, se não, digite N: ");
         String curso = obj.next();
